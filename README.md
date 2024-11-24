@@ -9,6 +9,7 @@ Hi! I'm **Adly Nady**, a dedicated **Full Stack Developer** and passionate **AI 
 - 🔹 Skilled in **Machine Learning** and **Deep Learning** for AI-based solutions.
 - 🔹 Hands-on with **Computer Vision** for real-world applications.
 - 🔹 Proficient in managing teams, leading projects, and delivering high-quality software.
+- 🔹 **Instructor at IEEE**: Delivered training and lectures on AI, machine learning, and computer vision.
 
 ---
 
@@ -33,7 +34,7 @@ Hi! I'm **Adly Nady**, a dedicated **Full Stack Developer** and passionate **AI 
 
 ## 🌟 **Experience**
 - **Full Stack Developer** (Laravel & Vue.js): Delivered robust web applications and dynamic features.
-- **AI Instructor**: Guided students and professionals in computer vision and machine learning.
+- **AI Instructor at IEEE**: Conducted sessions on computer vision, machine learning, and AI techniques for university students.
 - **Machine Learning Engineer**: Worked on innovative AI models during internships at CodSoft and SYNC INTERN'S.
 - **Freelance Back-end Developer**: Specialized in building scalable systems with Laravel.
 
@@ -71,7 +72,7 @@ Hi! I'm **Adly Nady**, a dedicated **Full Stack Developer** and passionate **AI 
 ## 🏆 **Achievements**
 - Delivered impactful AI models like object detection and NLP systems.
 - Built large-scale web applications with modern frameworks.
-- Successfully conducted training sessions on AI and machine learning.
+- Successfully conducted training sessions on AI and machine learning at IEEE.
 
 ---
 
