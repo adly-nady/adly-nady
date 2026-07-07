@@ -1,82 +1,68 @@
-# 🌟 Adly Nady | Full Stack Developer & AI Enthusiast
+# 🌟 Adly Nady | Co-Founder & CTO @ UpMost — Engineering AI Systems at Scale
 
-Hi! I'm **Adly Nady**, a dedicated **Full Stack Developer** and passionate **AI Engineer**. My journey combines the art of crafting user-friendly web applications with cutting-edge AI solutions. Every project I undertake is fueled by creativity, teamwork, and a drive to deliver impactful results.
-
----
-
-## 🚀 **About Me**
-- 🔹 Experienced in **Laravel** & **Vue.js** for full-stack development.
-- 🔹 Skilled in **Machine Learning** and **Deep Learning** for AI-based solutions.
-- 🔹 Hands-on with **Computer Vision** for real-world applications.
-- 🔹 Proficient in managing teams, leading projects, and delivering high-quality software.
-- 🔹 **Instructor at IEEE**: Delivered training and lectures on AI, machine learning, and computer vision.
+Hi! I'm **Adly Nady**, Co-founder & CTO of **UpMost**, the technical engineering arm behind **Tafseela Art**. I design and build high-performance, AI-native systems intended to operate at massive scale — currently architecting for 50M+ daily active users — with a relentless focus on speed, reliability, and pushing AI into every layer of the stack.
 
 ---
 
-## 💻 **Technical Skills**
-### **Web Development**
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Vue.js, Nuxt.js, jQuery, Pinia
-- **Backend**: PHP, Laravel, Node.js
-- **Databases**: MySQL, SQL
-- **Tools**: REST APIs, JSON, Axios, npm, Apache, GitHub
-
-### **AI & Machine Learning**
-- **Languages**: Python, C++
-- **Libraries/Frameworks**: TensorFlow, Keras, scikit-learn, OpenCV, NumPy, pandas, Matplotlib
-- **Specializations**: Object detection, semantic segmentation, Natural Language Processing, Reinforcement Learning
-
-### **Other Skills**
-- **Programming**: C#, Bash
-- **Problem Solving**: Algorithms, Data Structures, Creative Problem Solving
-- **DevOps**: Linux, Git, SOLID Principles, Design Patterns
+## 🚀 About Me
+- 🏗️ Co-founder & CTO of **UpMost**, the technical arm of **Tafseela Art**.
+- ⚡ Obsessed with performance engineering — building systems designed to support 50M+ daily active users without compromise.
+- 🤖 2+ years of hands-on experience in AI, Machine Learning, and Reinforcement Learning — with a mandate to push AI adoption as far as it can go across every product I touch.
+- 🧬 Closely follow daily developments in quantum computing.
+- 🇪🇬 Focused on Arabic-language, Egypt-first products spanning art, education, e-commerce, and fintech.
+- 🎓 Former AI Instructor at IEEE, training university students in machine learning and computer vision.
 
 ---
 
-## 🌟 **Experience**
-- **Full Stack Developer** (Laravel & Vue.js): Delivered robust web applications and dynamic features.
-- **AI Instructor at IEEE**: Conducted sessions on computer vision, machine learning, and AI techniques for university students.
-- **Machine Learning Engineer**: Worked on innovative AI models during internships at CodSoft and SYNC INTERN'S.
-- **Freelance Back-end Developer**: Specialized in building scalable systems with Laravel.
+## 🏛️ Flagship Work
+
+### 🎨 Tafseela Art
+A large-scale Arabic art community platform spanning 50+ interconnected systems — social networking, e-commerce (art supplies & paintings), real-time auctions, certified courses with exams, AI-assisted critique requests, 7 role-based dashboards, digital fingerprinting, and content protection.
+**Stack:** .NET core + Vue 3 + MySQL — Modular Monolithic architecture.
+
+### ⚙️ UpMost
+The engineering backbone powering Tafseela — architected for extreme concurrency, low latency, and reliability at massive scale.
+
+### 📊 Epico
+A cloud-based, AI-driven automated investment platform for the Egyptian market — evaluating LSTM, Transformer, and Reinforcement Learning models within FRA regulatory constraints.
 
 ---
 
-## 📂 **Notable Projects**
-### 🌐 **Virtual Windows Simulation**
-- Simulates the Windows OS interface for file management, browsing, and more.
-- **Technologies**: Vue.js, Laravel, MySQL, Axios
+## 💻 Technical Skills
 
-### 📱 **CRUD System in 2 Hours**
-- A Flutter app integrated with a Laravel API, featuring real-time WebSocket updates.
-- **Features**: Login, CRUD, and seamless UI/UX.
+**Backend & Architecture**
+.NET core, Laravel, Node.js, PHP, Modular Monolithic & microservice-oriented design
 
-### 👁️ **Driver Monitoring System**
-- Tracks drivers' eye movements to detect drowsiness and prevent accidents.
-- **Tools**: OpenCV, Computer Vision
+**Frontend**
+Vue 3, Nuxt.js, TypeScript, Tailwind CSS, PWA (offline-first, Service Workers, IndexedDB)
 
-### 🧠 **X-ray Fracture Detection**
-- A CNN model that detects fractures in X-ray images.
-- **Technologies**: TensorFlow, Keras
+**Databases**
+MySQL, SQL
 
-### ✍️ **Handwriting Recognition**
-- Converts handwritten notes into digital text using OpenCV and MediaPipe.
+**AI & Machine Learning**
+Python, TensorFlow, Keras, scikit-learn, Reinforcement Learning, NLP, Computer Vision (OpenCV)
 
-### 🎮 **3D Game Using Unity & Computer Vision**
-- Developed virtual hand tracking for game interaction in Unity.
-
-### 🎓 **ERP & LMS Systems**
-- Comprehensive enterprise solutions and learning management systems.
-- **Technologies**: Laravel, Nuxt.js, Vue.js
+**Emerging Tech**
+Tracking quantum computing research and its long-term implications for AI/ML workloads
 
 ---
 
-## 🏆 **Achievements**
-- Delivered impactful AI models like object detection and NLP systems.
-- Built large-scale web applications with modern frameworks.
-- Successfully conducted training sessions on AI and machine learning at IEEE.
+## 🧠 Foundational AI/ML Work
+- 👁️ **Driver Monitoring System** — Eye-tracking system to detect drowsiness and prevent accidents (OpenCV, Computer Vision)
+- 🩻 **X-ray Fracture Detection** — CNN model for detecting fractures in X-ray images (TensorFlow, Keras)
+- ✍️ **Handwriting Recognition** — Converts handwritten notes to digital text (OpenCV, MediaPipe)
+- 🌐 **Virtual Windows Simulation** — Simulated Windows OS interface for file management and browsing (Vue.js, Laravel, MySQL)
+- 🎓 **ERP & LMS Systems** — Enterprise and learning management platforms (Laravel, Nuxt.js, Vue.js)
 
 ---
 
-## 📊 **GitHub Stats**
+## 🏆 Background
+- Instructor at IEEE — delivered training sessions on AI, machine learning, and computer vision to university students.
+- Early machine learning experience through internships at CodSoft and SYNC INTERN'S.
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adly-nady&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adly-nady&layout=compact&theme=radical" alt="Top Languages" width="400"/>
@@ -84,7 +70,7 @@ Hi! I'm **Adly Nady**, a dedicated **Full Stack Developer** and passionate **AI 
 
 ---
 
-## 📬 **Connect with Me**
+## 📬 Connect with Me
 <p align="left">
   <a href="mailto:adlynady.example@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/adly-nady-10741b236/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
@@ -93,5 +79,5 @@ Hi! I'm **Adly Nady**, a dedicated **Full Stack Developer** and passionate **AI 
 
 ---
 
-## ✨ **Let's Collaborate!**
-I’m always excited to explore new opportunities in **Web Development** and **AI**. Feel free to reach out if you’re interested in my work or want to collaborate!
+## ✨ Let's Collaborate!
+Always excited to connect around large-scale systems, AI-driven products, and ambitious platforms. Feel free to reach out!
