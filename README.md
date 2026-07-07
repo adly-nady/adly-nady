@@ -1,4 +1,4 @@
-# 🌟 Adly Nady | Co-Founder & CTO @ UpMost — Engineering AI Systems at Scale
+#  Adly Nady | Co-Founder & CTO @ UpMost
 
 Hi! I'm **Adly Nady**, Co-founder & CTO of **UpMost**, the technical engineering arm behind **Tafseela Art**. I design and build high-performance, AI-native systems intended to operate at massive scale — currently architecting for 50M+ daily active users — with a relentless focus on speed, reliability, and pushing AI into every layer of the stack.
 
